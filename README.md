@@ -1,0 +1,1 @@
+Written and tested using VS Code, will be adding more detail like specifics in seats, purchase history as well as tracking which seats are unavailable, this is just all I was able to figure out by the deadline.
